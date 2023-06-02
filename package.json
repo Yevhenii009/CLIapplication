@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index",
-    "dev": "nodemon contacts"
+    "dev": "nodemon index"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Yevhenii009/CLIapplication#readme",
   "dependencies": {
-    "nanoid": "^4.0.2",
+    "nanoid": "^3.3.4",
     "yargs": "^17.7.2"
   },
   "devDependencies": {
