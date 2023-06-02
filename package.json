@@ -1,0 +1,27 @@
+{
+  "name": "cliapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yevhenii009/CLIapplication.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yevhenii009/CLIapplication/issues"
+  },
+  "homepage": "https://github.com/Yevhenii009/CLIapplication#readme",
+  "dependencies": {
+    "nanoid": "^4.0.2",
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
